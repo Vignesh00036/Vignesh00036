@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Vignesh Elumalai - Data Engineer</title>
 </head>
 <body>
 
@@ -20,12 +20,22 @@
 </ul>
 
 <h2>🌐 About Me</h2>
-<p>I am a BSc Computer Science graduate with a passion for data engineering and analytics. I bring 1.3 years of experience in medical billing as an AR caller at AGS Health.
+<p>I am a BSc Computer Science graduate with a passion for data engineering and analytics. I bring 1.3 years of experience in medical billing as an AR caller at AGS Health.</p>
 
-As a newcomer to the IT industry, I am eager to apply my academic knowledge and professional experience to real-world data challenges. I am actively seeking opportunities in the Data Engineer role, where I can contribute to building robust data pipelines and support data-driven projects. I am committed to continuous learning and staying up-to-date with the latest technologies in the data engineering field.</p>
+<p>As a newcomer to the IT industry, I am eager to apply my academic knowledge and professional experience to real-world data challenges. I am actively seeking opportunities in the Data Engineer role, where I can contribute to building robust data pipelines and support data-driven projects. I am committed to continuous learning and staying up-to-date with the latest technologies in the data engineering field.</p>
 
 <h2>📈 My Goals</h2>
 <p>I'm committed to continually improving my skills and staying up-to-date with the latest technologies in the data engineering field. I'm excited to collaborate on projects that leverage data to drive strategic decision-making.</p>
+
+<h2>🚀 Projects</h2>
+<ul>
+    <li>
+        <strong><a href="https://github.com/Vignesh00036/Data-of-cricketers">Data of Cricketers</a></strong>
+        <p>A comprehensive program for scraping, analyzing, and storing cricket player data. It retrieves real-time statistics and provides insights into player performance.</p>
+        <p><strong>Technologies Used</strong>: Python, Beautiful Soup, Selenium, Pandas, PostgreSQL, AWS S3, Snowflake.</p>
+    </li>
+    <!-- You can add more projects here following the same structure -->
+</ul>
 
 <h2>📫 Let's Connect</h2>
 <ul>
