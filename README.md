@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Vignesh Elumalai! 👋
 
-<!--
-**Vignesh00036/Vignesh00036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a dedicated and passionate developer from India with expertise in cloud computing, data engineering, and backend development.
 
-Here are some ideas to get you started:
+🔧 Skills
+Cloud: AWS
+Data Platforms: Snowflake
+Programming: Python
+Databases: SQL, PostgreSQL
+💼 About Me
+I enjoy solving complex problems and building efficient, scalable solutions. Whether it's working on cloud infrastructures, data pipelines, or database management, I aim to leverage my skills to create impactful projects and contribute to the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+GitHub: github.com/YourUsername (replace with your GitHub username)
+LinkedIn: linkedin.com/in/YourLinkedIn (replace with your LinkedIn profile)
