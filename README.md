@@ -30,8 +30,13 @@
 <ul>
     <li>
         <strong><a href="https://github.com/Vignesh00036/Data-of-cricketers">Data of Cricketers</a></strong>
-        <p>A comprehensive program for scraping, analyzing, and storing cricket player data. It retrieves real-time statistics and provides insights into player performance.</p>
-        <p><strong>Technologies Used</strong>: Python, Beautiful Soup, Selenium, Pandas, PostgreSQL, AWS S3, Snowflake.</p>
+        <p>This project involves a comprehensive ETL (Extract, Transform, Load) process designed to scrape data from a designated website, transform it into a structured format, and load it into specific tables within designated storage solutions. The steps involved are as follows:</p>
+        <ul>
+            <li>Extraction: Utilize web scraping techniques to extract relevant data from the specified website.</li>
+            <li>Transformation: Process and clean the extracted data to ensure it is in a structured format suitable for analysis and storage.</li>
+            <li>Loading: Load the transformed data into specific tables within the selected storage solutions, ensuring data integrity and accessibility.</li>
+        </ul>
+        <p><strong>Technologies Used</strong>: Python, PostgreSQL, AWS, Snowflake, Sql.
     </li>
     <!-- You can add more projects here following the same structure -->
 </ul>
@@ -40,6 +45,7 @@
 <ul>
     <li><strong>GitHub</strong>: <a href="https://github.com/Vignesh00036">Vignesh Elumalai@github</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/vignesh-elumalai-2a4684332">Vignesh Elumalai@Linkedin</a></li>
+    <li><strong>Email Id</strong>: <a href="mailto:vigneshoffl36@gmail.com">vigneshoffl36@gmail.com</a></li>
 </ul>
 
 </body>
