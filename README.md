@@ -29,8 +29,8 @@ As a newcomer to the IT industry, I am eager to apply my academic knowledge and 
 
 <h2>📫 Let's Connect</h2>
 <ul>
-    <li><strong>GitHub</strong>: <a href="https://github.com/YourUsername">github.com/YourUsername</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/YourLinkedIn">linkedin.com/in/YourLinkedIn</a></li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/Vignesh00036">Vignesh Elumalai@github</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/vignesh-elumalai-2a4684332">Vignesh Elumalai@Linkedin</a></li>
 </ul>
 
 </body>
