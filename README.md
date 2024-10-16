@@ -20,7 +20,9 @@
 </ul>
 
 <h2>🌐 About Me</h2>
-<p>As a Data Engineer, I focus on designing and maintaining efficient data systems that support business intelligence and analytics. I thrive on solving data challenges, optimizing ETL processes, and ensuring data quality and security.</p>
+<p>I am a recent BSc Computer Science graduate with a passion for data engineering and analytics. I bring 1.3 years of experience in medical billing as an AR caller at AGS Health.
+
+As a newcomer to the IT industry, I am eager to apply my academic knowledge and professional experience to real-world data challenges. I am actively seeking opportunities in the Data Engineer role, where I can contribute to building robust data pipelines and support data-driven projects. I am committed to continuous learning and staying up-to-date with the latest technologies in the data engineering field.</p>
 
 <h2>📈 My Goals</h2>
 <p>I'm committed to continually improving my skills and staying up-to-date with the latest technologies in the data engineering field. I'm excited to collaborate on projects that leverage data to drive strategic decision-making.</p>
